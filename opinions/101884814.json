@@ -1,0 +1,20 @@
+[
+    {
+        "opinion_id": "14512315",
+        "author": "p...o",
+        "recomm": "Polecam",
+        "stars": "5/5",
+        "content": "Ok",
+        "pros": [
+            "jakość",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "purchased": "Opinia potwierdzona zakupem",
+        "publish_date": "2021-05-25 21:35:51",
+        "purchase_date": "2021-05-09 15:00:53"
+    }
+]

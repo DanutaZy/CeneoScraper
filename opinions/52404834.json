@@ -11,7 +11,7 @@
         "useless": "6",
         "purchased": "Opinia potwierdzona zakupem",
         "publish_date": "2017-12-27 20:09:24",
-        "purchuse_date": "2017-12-15 09:12:44"
+        "purchase_date": "2017-12-15 09:12:44"
     },
     {
         "opinion_id": "8229186",
@@ -33,7 +33,7 @@
         "useless": "14",
         "purchased": "Opinia potwierdzona zakupem",
         "publish_date": "2018-08-09 07:57:18",
-        "purchuse_date": "2018-07-31 15:35:50"
+        "purchase_date": "2018-07-31 15:35:50"
     },
     {
         "opinion_id": "6690498",
@@ -50,7 +50,7 @@
         "useless": "6",
         "purchased": "Opinia potwierdzona zakupem",
         "publish_date": "2018-03-09 08:56:42",
-        "purchuse_date": "2018-02-19 14:16:52"
+        "purchase_date": "2018-02-19 14:16:52"
     },
     {
         "opinion_id": "10557498",
@@ -77,7 +77,7 @@
         "useless": "4",
         "purchased": "Opinia potwierdzona zakupem",
         "publish_date": "2019-05-22 13:07:42",
-        "purchuse_date": "2019-05-11 13:17:21"
+        "purchase_date": "2019-05-11 13:17:21"
     },
     {
         "opinion_id": "14270199",
@@ -96,7 +96,7 @@
         "useless": "0",
         "purchased": "Opinia potwierdzona zakupem",
         "publish_date": "2021-04-11 15:33:03",
-        "purchuse_date": "2021-04-06 21:55:22"
+        "purchase_date": "2021-04-06 21:55:22"
     },
     {
         "opinion_id": "6676494",
@@ -116,7 +116,7 @@
         "useless": "0",
         "purchased": "Opinia potwierdzona zakupem",
         "publish_date": "2018-03-06 10:28:21",
-        "purchuse_date": "2018-03-01 21:15:35"
+        "purchase_date": "2018-03-01 21:15:35"
     },
     {
         "opinion_id": "8088830",
@@ -130,7 +130,7 @@
         "useless": "4",
         "purchased": null,
         "publish_date": "2018-06-28 09:43:41",
-        "purchuse_date": null
+        "purchase_date": null
     },
     {
         "opinion_id": "8270589",
@@ -148,7 +148,7 @@
         "useless": "0",
         "purchased": "Opinia potwierdzona zakupem",
         "publish_date": "2018-08-22 10:45:45",
-        "purchuse_date": "2018-08-17 11:49:46"
+        "purchase_date": "2018-08-17 11:49:46"
     },
     {
         "opinion_id": "8646544",
@@ -164,7 +164,7 @@
         "useless": "0",
         "purchased": "Opinia potwierdzona zakupem",
         "publish_date": "2018-11-30 11:06:26",
-        "purchuse_date": "2018-10-24 11:39:16"
+        "purchase_date": "2018-10-24 11:39:16"
     },
     {
         "opinion_id": "6570974",
@@ -182,6 +182,6 @@
         "useless": "0",
         "purchased": "Opinia potwierdzona zakupem",
         "publish_date": "2018-02-08 16:48:33",
-        "purchuse_date": "2018-01-29 11:22:13"
+        "purchase_date": "2018-01-29 11:22:13"
     }
 ]
